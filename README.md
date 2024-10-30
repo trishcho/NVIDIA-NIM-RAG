@@ -1,5 +1,8 @@
 # NVIDIA NIM Demo - Retrieval-Augmented Generation (RAG) with Streamlit
 
+
+<img width="295" alt="Screenshot 2024-10-30 at 12 50 10 AM" src="https://github.com/user-attachments/assets/59a56c3a-7758-4f26-94ec-7560e0c4459f">
+
 NVIDIA NIM (NVIDIA Inference Microservices) is a platform designed to simplify deploying AI applications across various infrastructures, including cloud, data centers, and on-premises environments. It provides pre-built, optimized microservices to run high-performance models, including large language models (LLMs) and generative AI solutions, using NVIDIA's TensorRT, TensorRT-LLM, and other tools. NIM supports widely-used AI applications such as chatbots, virtual assistants, and retrieval-augmented generation (RAG) pipelines, offering developers flexible deployment options and control over data privacy and security.
 
 Additionally, NIM integrates with popular AI frameworks like LangChain and Hugging Face, allowing for streamlined implementation in existing workflows. Through partnerships with major cloud providers and hardware manufacturers, enterprises can deploy these microservices with minimal configuration, ensuring low-latency, high-throughput inference for domain-specific needs​
